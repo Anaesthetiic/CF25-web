@@ -5,5 +5,3 @@ baseurl: "" # e.g., /team-portal
 permalink: pretty
 markdown: kramdown
 theme: null
-plugins:
-  - jekyll-feed  # Optional, can remove if not needed
