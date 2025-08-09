@@ -1,0 +1,27 @@
+- name: Mattermost
+  url: https://mattermost.example.com
+  desc: Team chat and incident channels.
+  icon: "💬"
+  external: true
+  note: Update this URL to your actual workspace.
+
+- name: OpenCTI
+  url: https://opencti.example.com
+  desc: Threat intel platform (entities, observables, reports).
+  icon: "🧠"
+  external: true
+  note: Replace with your internal OpenCTI link.
+
+- name: Netmaker
+  url: https://netmaker.example.com
+  desc: WireGuard-based network management.
+  icon: "🕸️"
+  external: true
+  note: Point to your Netmaker dashboard.
+
+- name: Authenticator Apps
+  url: #auth-apps
+  desc: Setup guides for MFA (mobile & desktop).
+  icon: "🔐"
+  external: false
+  note: Links are on this page below.
