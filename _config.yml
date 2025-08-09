@@ -5,3 +5,6 @@ baseurl: "" # e.g., /team-portal
 permalink: pretty
 markdown: kramdown
 theme: null
+plugins:
+  - jekyll-seo-tag   # Adds meta/OG tags (GitHub Pages–supported)
+  - jekyll-feed      # Optional RSS feed
